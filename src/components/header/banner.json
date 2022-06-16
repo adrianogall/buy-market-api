@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_header_banners",
+  "info": {
+    "displayName": "banner",
+    "icon": "chalkboard"
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "allowedTypes": [
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
